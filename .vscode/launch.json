@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Stackop",
+            "request": "launch",
+            "mainClass": "Stackop",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ClickCounter",
+            "request": "launch",
+            "mainClass": "ClickCounter",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Findchar",
+            "request": "launch",
+            "mainClass": "Findchar",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "accarr",
+            "request": "launch",
+            "mainClass": "accarr",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Evenodd",
+            "request": "launch",
+            "mainClass": "Evenodd",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Swapping",
+            "request": "launch",
+            "mainClass": "Swapping",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Calculation",
+            "request": "launch",
+            "mainClass": "Calculation",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AccessArray",
+            "request": "launch",
+            "mainClass": "AccessArray",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "CommandLine",
+            "request": "launch",
+            "mainClass": "CommandLine",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "CompileTimePoly",
+            "request": "launch",
+            "mainClass": "CompileTimePoly",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Connect",
+            "request": "launch",
+            "mainClass": "Connect",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "DecArrayVal",
+            "request": "launch",
+            "mainClass": "DecArrayVal",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "FirstNum",
+            "request": "launch",
+            "mainClass": "FirstNum",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "LargeNumArray",
+            "request": "launch",
+            "mainClass": "LargeNumArray",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "MobileShopManager",
+            "request": "launch",
+            "mainClass": "MobileShopManager",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactorization",
+            "request": "launch",
+            "mainClass": "PrimeFactorization",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "RunTimePoly",
+            "request": "launch",
+            "mainClass": "RunTimePoly",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "Java_a7c07b7c"
+        }
+    ]
+}
