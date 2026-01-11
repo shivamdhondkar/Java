@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CricketerScores",
+            "request": "launch",
+            "mainClass": "CricketerScores",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "Stackop",
             "request": "launch",
             "mainClass": "Stackop",
