@@ -4,7 +4,7 @@ class Calculation {
     {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("enter two number : ");
+        System.out.println("enter two number for calcuation : ");
         int num1 = sc.nextInt();
         int num2 = sc.nextInt();
         
