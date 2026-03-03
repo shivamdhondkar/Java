@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AtmCore",
+            "request": "launch",
+            "mainClass": "AtmCore",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "CricketerScores",
             "request": "launch",
             "mainClass": "CricketerScores",
