@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackUsingLinkedList",
+            "request": "launch",
+            "mainClass": "StackUsingLinkedList",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "StackClass",
+            "request": "launch",
+            "mainClass": "StackClass",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "AtmCore",
             "request": "launch",
             "mainClass": "AtmCore",
